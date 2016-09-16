@@ -1,5 +1,7 @@
-print("Hello word")
-print("ƒобрый день")
-верси€ без фичи
-фича hello advanced
-продолжаю работу
+print("Hello word;")
+print("ƒобрый день;")
+верси€ без фичи;
+print("ƒобрый день;")
+верси€ без фичи;
+фича hello advanced;
+продолжаю работу;
